@@ -1,0 +1,8 @@
+frmMain = 18, 27, 711, 653, C, 0, 9, 687, 651, C
+VBUnzBas = 44, 44, 522, 492, C
+VBZipBas = 22, 22, 500, 470, C
+basForeGround = 66, 66, 591, 506, C
+frmFiles = 9, 13, 729, 645, , 0, 0, 745, 600, C
+basglobal = 110, 110, 588, 558, C
+basCrypt = 99, 99, 632, 547, C
+basExecute = 88, 88, 621, 536, C

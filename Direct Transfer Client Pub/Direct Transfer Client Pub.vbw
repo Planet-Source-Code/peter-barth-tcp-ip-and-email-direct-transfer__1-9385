@@ -1,0 +1,6 @@
+frmMain = 13, 11, 735, 655, C, 7, 7, 745, 620, C
+frmSettings = 44, 44, 577, 492, C, 7, 7, 540, 507, C
+basCrypt = 44, 44, 577, 492, C
+VBUnzBas = 0, 0, 0, 0, C
+VBZipBas = 0, 0, 0, 0, C
+basglobal = 132, 132, 665, 580, C
